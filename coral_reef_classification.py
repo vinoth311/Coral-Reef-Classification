@@ -11,7 +11,7 @@ from keras.models import load_model
 import tensorflow as tf
 import base64
 
-genai.configure(api_key="AIzaSyDKpZ2nAonxAWNA5ETi2TSoY5FhGQBkkYc")
+genai.configure(api_key="ur api key here :(")
 
 
 def get_base64(png_file):
